@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">AndroidToDoList</string>
     <string name="action_settings">Settings</string>
+    <string name="ApplicationID">QSA2Ot6Lc8WMjYyoefpuoMLteTELmervkNgx9sgk</string>
+    <string name="ClientKey">FAplsnuE2oDqEJYGKrilyJSFVpjyG6MrLEomGLh0</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_create">CreateActivity</string>
+    <string name="title_activity_update">UpdateActivity</string>
 </resources>
