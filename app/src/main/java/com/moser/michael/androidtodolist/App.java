@@ -12,6 +12,6 @@ public class App extends Application {
         super.onCreate();
 
         // Your Application ID and Client Key are defined elsewhere
-        Parse.initialize(this, "@strings/ApplicationID", "@strings/ClientKey");
+        Parse.initialize(this, "QSA2Ot6Lc8WMjYyoefpuoMLteTELmervkNgx9sgk", "FAplsnuE2oDqEJYGKrilyJSFVpjyG6MrLEomGLh0");
     }
 }

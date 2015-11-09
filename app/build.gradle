@@ -5,6 +5,9 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
+        // Enabling multidex support.
+        multiDexEnabled true
+
         applicationId "com.moser.michael.androidtodolist"
         minSdkVersion 21
         targetSdkVersion 23
